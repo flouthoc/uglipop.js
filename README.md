@@ -4,6 +4,8 @@
 An ultra lightweight,unstyled 2kb Minimal Javascript.
 Is Lightweight Non-fancy Modal Written is JS , Uglipop is highly customizable
 
+![image](https://github.com/argunner/Uglipop.js/blob/master/shot.png)
+
 <h3>Checkout Documentation</h3>
 [Documentation Here](http://argunner.github.io/uglipop.js/)
 

@@ -91,3 +91,6 @@ uglipop({class:'put', //styling class for Modal
 box-shadow: 0px 0px 39px 12px rgba(0,0,0,0.75);
     }
 ```
+
+<h1>Bug Fixes</h1>
+[<strike>Browser prefixes on transform style (to fix positioning issues with Safari, Chromium, IE, etc) </strike>](https://github.com/argunner/uglipop.js/pull/2) <strong> Fixed By</strong> [Corey Jepperson(@acoreyj)](https://github.com/acoreyj)

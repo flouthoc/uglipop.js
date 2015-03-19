@@ -10,7 +10,7 @@ window.onload = function() {
     var popbox = document.createElement('div');
     var overlay_wrapper = document.createElement('div');
     content_fixed.id = 'uglipop_content_fixed';
-    content_fixed.setAttribute('style', 'position:fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);opacity:1;');
+    content_fixed.setAttribute('style', 'position:fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);opacity:1;');
     popbox.id = 'uglipop_popbox';
     overlay_wrapper.id = "uglipop_overlay_wrapper";
     overlay_wrapper.setAttribute('style', 'position:absolute;top:0;bottom:0;left:0;right:0;');

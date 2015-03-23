@@ -1,6 +1,6 @@
 /*|--uglipop.js--|
 |--(A Minimalistic Pure JavaScript Modal )--|
-|--Author : argunner (gunnerar7@gmail.com)(http://github.com/argunner)--|
+|--Author : flouthoc (gunnerar7@gmail.com)(http://github.com/flouthoc)--|
 |--Contributers : Add Your Name Below--|*/
 
 window.onload = function() {

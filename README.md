@@ -1,16 +1,16 @@
 # Uglipop.js
-[Website](http://argunner.github.io/uglipop.js/)
+[Website](http://flouthoc.github.io/uglipop.js/)
 <h4>(Pure Javascript)</h4>
 An ultra lightweight,unstyled 2kb Minimal Javascript.
 Is Lightweight Non-fancy Modal Written is JS , Uglipop is highly customizable
 
-![image](https://github.com/argunner/Uglipop.js/blob/master/shot.png)
+![image](https://github.com/flouthoc/Uglipop.js/blob/master/shot.png)
 
 <h3>Checkout Documentation</h3>
-[Documentation Here](http://argunner.github.io/uglipop.js/)
+[Documentation Here](http://flouthoc.github.io/uglipop.js/)
 
 <h1>Let’s see it in action.</h1>
-[Check Out Demo](http://argunner.github.io/uglipop.js/)
+[Check Out Demo](http://flouthoc.github.io/uglipop.js/)
 <p>In Raw form <strong>Uglipop</strong> does not contain modal like this it is actually unstyled , in order to full fill its aim of being fully customizable , minimal and lightweight.
 <strong>That's the reason behind calling it Ugly</strong>
 Things That can be used with <strong>Uglipop</strong>
@@ -93,4 +93,4 @@ box-shadow: 0px 0px 39px 12px rgba(0,0,0,0.75);
 ```
 
 <h1>Bug Fixes</h1>
-[<strike>Browser prefixes on transform style (to fix positioning issues with Safari, Chromium, IE, etc) </strike>](https://github.com/argunner/uglipop.js/pull/2) <strong> Fixed By</strong> [Corey Jepperson(@acoreyj)](https://github.com/acoreyj)
+[<strike>Browser prefixes on transform style (to fix positioning issues with Safari, Chromium, IE, etc) </strike>](https://github.com/flouthoc/uglipop.js/pull/2) <strong> Fixed By</strong> [Corey Jepperson(@acoreyj)](https://github.com/acoreyj)

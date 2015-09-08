@@ -82,7 +82,6 @@
         doc.getElementById('uglipop_overlay_wrapper').style.display = '';
         doc.getElementById('uglipop_overlay').style.display = '';
         doc.getElementById('uglipop_content_fixed').style.display = '';
-        //doc.getElementById('uglipop_close').style.display = '';
 
 
     }

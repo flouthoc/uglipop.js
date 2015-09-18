@@ -92,5 +92,8 @@ box-shadow: 0px 0px 39px 12px rgba(0,0,0,0.75);
     }
 ```
 
+<h1>How Do I add my modification or plugin to this repo?</h1>
+There is a <b>plugin</b> directory you can add your module like this <b>plugin/your-module/your-files</b>
+with author and module detailed info
 <h1>Bug Fixes</h1>
 [<strike>Browser prefixes on transform style (to fix positioning issues with Safari, Chromium, IE, etc) </strike>](https://github.com/flouthoc/uglipop.js/pull/2) <strong> Fixed By</strong> [Corey Jepperson(@acoreyj)](https://github.com/acoreyj)

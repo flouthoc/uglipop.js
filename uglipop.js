@@ -38,7 +38,7 @@
         doc.getElementById('uglipop_overlay').style.display = 'none';
         doc.getElementById('uglipop_content_fixed').style.display = 'none';
         overlay_wrapper.addEventListener('click', remove);
-        on(w, 'keypress', function(e) {
+        on(w, 'keydown', function(e) {
             //kill pop if button is ESC ;)
             if (e.keyCode == 27) {
                 remove();

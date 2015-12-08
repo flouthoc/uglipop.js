@@ -46,8 +46,9 @@
         });
 
 
-        //create global variable
+        //create global variables
         w.uglipop = uglipop
+        w.removeuglipop = remove
     }
 
     function uglipop(config) {

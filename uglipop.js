@@ -7,6 +7,8 @@
 (function(w, doc) {
     "use strict";
 
+    var initted = false
+
     function on(el, eventName, handler) {
         if (el.addEventListener) {
             el.addEventListener(eventName, handler);
@@ -18,7 +20,11 @@
     }
 
     function init() {
+        if initted
+            return
 
+        initted = true
+        
         var overlay = doc.createElement('div');
         var content_fixed = doc.createElement('div');
         var popbox = doc.createElement('div');
@@ -87,4 +93,5 @@
 
     //init on window loaded
     on(doc, "DOMContentLoaded", init)
+    on(doc, "load", init)
 })(window, document)

@@ -2,7 +2,8 @@
 |--(A Minimalistic Pure JavaScript Modal )--|
 |--Author : flouthoc (gunnerar7@gmail.com)(https://github.com/flouthoc)--|
 |--Contributers : Add Your Name Below--|
-|-- zhuharev (kirill at zhuharev.ru)(https://github.com/zhuharev)--|*/
+|-- zhuharev (kirill at zhuharev.ru)(https://github.com/zhuharev)--|
+|--Nicolas Dietrich (https://github.com/nidico)--|*/
 
 (function(w, doc) {
     "use strict";

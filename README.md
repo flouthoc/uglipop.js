@@ -22,23 +22,28 @@ Things That can be used with <strong>Uglipop</strong>
 <li>You Can use <strong>Images</strong></li>
 </ul>
 <p>You Can always use Uglipop with minimal code like this</p>
+
 ```js
 uglipop({class:'put', //styling class for Modal
         source:'html',
         content:'<div> All HTML goes here </div>'});}
 ```
+
 <h1>How does it look when it's Ugly & raw?</h1>
 <p>Well <strong>UgliPop</strong> at its worst looks really bad but the good part is that <strong> you can style it way the way you want it </strong></p>
+
 ```js
 uglipop({class:'put2', //styling class for Modal
         source:'html',
         content:'<h1>This is some Raw Content</h1>'});}
 ```
+
 ```css
 .put2{
       background-color:#fff;
     }
 ```
+
 <h1>How do I style my Uglipop Modal ?</h1>
 Well Styling an Uglipop Modal is pretty simple and easy
     while calling uglipop(); watchout for argument <strong>  <em>class:"Your Styling Class Name Goes Here"</em></strong> so your code becomes something like this.
@@ -48,6 +53,7 @@ uglipop({class:'my-styling-class', //styling class for Modal
         source:'html',
         content:'<h1>This is some Raw Content</h1>'});}
 ```
+
 ```css
 .my-styling-class{
       background-color:#fff;
@@ -57,28 +63,35 @@ uglipop({class:'my-styling-class', //styling class for Modal
 ```
 <h1>How Do I use Other Div inside Uglipop Modal ?</h1>
 Using Other Div inside Uglipop Modal is Pretty Simple , minimum possible code can go like this
+
 ```js
 uglipop({class:'my-styling-class', //styling class for Modal
         source:'div', //'div' instead of 'html'
         content:'your div id goes here'});}
 ```
+
 ```html
 <div id='some-div-id' style='display:none;'>
         other html goes here .....
         </div>
 ```
+
 <h1>Can We Use Images inside Uglipop Modal?</h1>
 <p>Sure you can always use the images inside the uglipop by using it in HTML mode </p>
+
 ```js
 uglipop({source:'html',
         content:'<img src="url-goes-here"></img>'});}
 ```
+
 <h1>How Do I Create Custome Themes for Uglipop?</h1>
+
 ```js
 uglipop({class:'put', //styling class for Modal
         source:'html',
         content:'<div> All HTML goes here </div>'});}
 ```
+
 ```css
 .put{
       border-radius: 10px;
